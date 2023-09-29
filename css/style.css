@@ -1,0 +1,5 @@
+
+.nav{justify-content: space-between;} .a{list-style: none; }
+.boximg{position: relative; } .op{position: absolute; top: 0; left: 0; display: none; }
+.boximg:hover .op{display: block; transition: all .7s ease;}
+.bi{left: 283px;} li{list-style: none; position: relative;} 
